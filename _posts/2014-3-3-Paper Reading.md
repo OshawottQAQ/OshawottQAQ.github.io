@@ -1,6 +1,6 @@
 ---
 layout: post
-Paper reading: Very Deep Convolutional Networks for Large-Scale Image Recognition
+title:Paper reading: Very Deep Convolutional Networks for Large-Scale Image Recognition
 ---
 
 浅浅尝试一番
